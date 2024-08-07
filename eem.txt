@@ -1,0 +1,12 @@
+tclsh
+ snmp_getid public
+ {<obj oid='system.1.0' val='Cisco Internetwork Operating System Software 
+ Cisco IOS(tm) 7200 Software (C7200-IK9S-M), Experimental Version 12.3(20030507:225511)
+ [geotpi2itd1 124]
+ Copyright (c) 1986-2003 by Cisco Systems, Inc.
+ Compiled Wed 21-May-03 16:16 by engineer'/>} 
+ {<obj oid='system.2.0' val='products.223'/>}
+ {<obj oid='sysUpTime.0' val='6664317'/>} 
+ {<obj oid='system.4.0' val='1-800-553-2447 - phone the TAC'/>}
+ {<obj oid='system.5.0' val='c7200.myCompany.com'/>}
+ {<obj oid='system.6.0' val='Bldg 24, San Jose, CA'/>}
